@@ -1,15 +1,16 @@
 .homepage-container {
     display: flex;
-    flex: 1 1 auto;
+    flex: auto;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     width: 100vw;
+    margin: -10px;
 }
 
 .background-body1 {
     display: flex;
-    flex: 1 1 auto;
+    flex: auto;
     padding: 80px;
     width: 100%;
     justify-content: center;
@@ -108,7 +109,7 @@
 
 .background-body2 {
     display: flex;
-    flex: 1 1 auto;
+    flex: auto;
     padding-left: 80px;
     padding-right: 80px;
     height: 500px;
@@ -167,7 +168,7 @@
 
 .background-body3 {
     display: flex;
-    flex: 1 1 auto;
+    flex: auto;
     padding-left: 80px;
     padding-right: 80px;
     width: 100%;
@@ -200,7 +201,7 @@
 
 .body4-background {
     display: flex;
-    flex: 1 1 auto;
+    flex: auto;
     padding-left: 80px;
     padding-right: 80px;
     width: 100%;
@@ -254,7 +255,7 @@
 
 .footer {
     display: flex;
-    flex: 1 1 auto;
+    flex: auto;
     padding-left: 80px;
     padding-right: 80px;
     width: 100%;
